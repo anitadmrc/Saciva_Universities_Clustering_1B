@@ -1,0 +1,511 @@
+City,State,Cost of Living Index,Cost Category
+Abilene,TX,89.1,Low
+Adrian,MI,90.5,Medium
+Akron,OH,89.4,Low
+Alamogordo,NM,85.8,Low
+Albany,GA,87.3,Low
+Albany,OR,105.4,High
+Albany,NY,100.1,High
+Albertville,AL,90.9,Medium
+Albuquerque,NM,92.9,Medium
+Alexandria,LA,86.2,Low
+Allentown,PA,98.9,Medium
+Altoona,PA,90.8,Medium
+Amarillo,TX,88.2,Low
+Ames,IA,91.5,Medium
+Anchorage,AK,110.7,High
+Ann Arbor,MI,99.3,Medium
+Anniston,AL,85.7,Low
+Appleton,WI,90.7,Medium
+Asheville,NC,103.3,High
+Ashtabula,OH,87.4,Low
+Athens,OH,88.5,Low
+Athens,TX,92.9,Medium
+Athens,GA,95.0,Medium
+Atlanta,GA,100.3,High
+Atlantic City,NJ,102.0,High
+Auburn,NY,93.7,Medium
+Auburn,AL,91.9,Medium
+Augusta,GA,91.6,Medium
+Augusta,ME,100.0,High
+Austin,TX,106.6,High
+Bakersfield,CA,102.9,High
+Baltimore,MD,107.0,High
+Bangor,ME,98.0,Medium
+Barnstable Town,MA,122.4,High
+Baton Rouge,LA,91.1,Medium
+Battle Creek,MI,85.9,Low
+Bay City,MI,85.4,Low
+Beaumont,TX,88.6,Low
+Beaver Dam,WI,92.9,Medium
+Beckley,WV,80.0,Low
+Bellingham,WA,111.6,High
+Bend,OR,115.9,High
+Billings,MT,95.7,Medium
+Binghamton,NY,93.3,Medium
+Birmingham,AL,90.7,Medium
+Bismarck,ND,93.1,Medium
+Blacksburg,VA,94.5,Medium
+Bloomington,IN,92.4,Medium
+Bloomsburg,PA,93.2,Medium
+Bluefield,WV,81.2,Low
+Boise City,ID,100.3,High
+Boston,MA,132.6,High
+Boulder,CO,118.7,High
+Bowling Green,KY,87.0,Low
+Bozeman,MT,125.3,High
+Brainerd,MN,97.9,Medium
+Branson,MO,89.5,Low
+Bremerton,WA,115.0,High
+Brownsville,TX,87.8,Low
+Brunswick,GA,94.4,Medium
+Buffalo,NY,97.3,Medium
+Burlington,NC,91.8,Medium
+Burlington,VT,112.8,High
+Canton,OH,88.2,Low
+Cape Girardeau,MO,88.1,Low
+Carbondale,IL,83.5,Low
+Carson City,NV,103.0,High
+Casper,WY,94.2,Medium
+Cedar Rapids,IA,88.1,Low
+Centralia,WA,103.3,High
+Chambersburg,PA,95.7,Medium
+Champaign,IL,89.0,Low
+Charleston,WV,83.9,Low
+Charleston,SC,101.7,High
+Charlotte,NC,97.9,Medium
+Charlottesville,VA,102.1,High
+Chattanooga,TN,91.2,Medium
+Cheyenne,WY,96.9,Medium
+Chicago,IL,100.1,High
+Chico,CA,110.5,High
+Chillicothe,OH,89.8,Low
+Cincinnati,OH,92.4,Medium
+Claremont,NH,102.3,High
+Clarksburg,WV,83.4,Low
+Clarksville,TN,88.7,Low
+Clearlake,CA,108.8,High
+Cleveland,TN,89.5,Low
+Cleveland,OH,90.0,Medium
+Coeur d'Alene,ID,103.3,High
+College Station,TX,92.3,Medium
+Colorado Springs,CO,102.2,High
+Columbia,MO,89.8,Low
+Columbia,SC,91.9,Medium
+Columbus,GA,88.5,Low
+Columbus,IN,89.1,Low
+Columbus,OH,93.9,Medium
+Concord,NH,108.3,High
+Cookeville,TN,90.9,Medium
+Coos Bay,OR,102.0,High
+Corning,NY,90.9,Medium
+Corpus Christi,TX,93.3,Medium
+Corvallis,OR,110.6,High
+Cullman,AL,90.5,Medium
+Cumberland,MD,90.9,Medium
+Dalton,GA,89.1,Low
+Danville,IL,83.9,Low
+Danville,VA,87.1,Low
+Dayton,OH,88.4,Low
+Decatur,AL,88.6,Low
+Decatur,IL,84.9,Low
+Denver,CO,112.1,High
+Des Moines,IA,91.7,Medium
+Detroit,MI,93.2,Medium
+Dothan,AL,86.3,Low
+Dover,DE,101.3,High
+DuBois,PA,88.2,Low
+Dubuque,IA,89.6,Low
+Duluth,MN,93.2,Medium
+Dunn,NC,91.4,Medium
+Durham,NC,99.8,Medium
+East Stroudsburg,PA,96.1,Medium
+Eau Claire,WI,91.8,Medium
+El Centro,CA,102.3,High
+El Paso,TX,88.6,Low
+Elizabeth City,NC,91.1,Medium
+Elizabethtown,KY,88.1,Low
+Elkhart,IN,88.5,Low
+Elmira,NY,92.5,Medium
+Enid,OK,82.9,Low
+Erie,PA,91.8,Medium
+Eugene,OR,108.4,High
+Eureka,CA,116.5,High
+Evansville,IN,87.2,Low
+Fairbanks,AK,107.9,High
+Fargo,ND,91.4,Medium
+Faribault,MN,102.3,High
+Farmington,MO,85.4,Low
+Farmington,NM,88.4,Low
+Fayetteville,NC,89.5,Low
+Fayetteville,AR,90.4,Medium
+Findlay,OH,91.1,Medium
+Flagstaff,AZ,108.5,High
+Flint,MI,85.7,Low
+Florence,SC,87.7,Low
+Florence,AL,86.8,Low
+Fond du Lac,WI,88.0,Low
+Forest City,NC,89.4,Low
+Fort Collins,CO,109.2,High
+Fort Smith,AR,84.2,Low
+Fort Wayne,IN,86.8,Low
+Frankfort,KY,88.1,Low
+Fresno,CA,105.9,High
+Gadsden,AL,86.0,Low
+Gainesville,FL,97.3,Medium
+Gainesville,GA,97.0,Medium
+Gallup,NM,90.0,Medium
+Gettysburg,PA,98.2,Medium
+Glens Falls,NY,98.6,Medium
+Goldsboro,NC,88.5,Low
+Grand Forks,ND,90.7,Medium
+Grand Island,NE,88.8,Low
+Grand Junction,CO,98.1,Medium
+Grand Rapids,MI,93.7,Medium
+Grants Pass,OR,106.6,High
+Great Falls,MT,91.1,Medium
+Greeley,CO,106.1,High
+Green Bay,WI,91.4,Medium
+Greeneville,TN,86.5,Low
+Greensboro,NC,91.0,Medium
+Greenville,NC,89.8,Low
+Greenville,SC,95.0,Medium
+Greenwood,SC,88.7,Low
+Gulfport,MS,86.8,Low
+Hammond,LA,89.0,Low
+Hanford,CA,105.4,High
+Harrisburg,PA,95.8,Medium
+Harrisonburg,VA,95.5,Medium
+Hartford,CT,104.8,High
+Hattiesburg,MS,86.1,Low
+Helena,MT,104.2,High
+Hickory,NC,89.8,Low
+Hilo,HI,136.9,High
+Hilton Head Island,SC,109.4,High
+Hinesville,GA,90.8,Medium
+Hobbs,NM,87.7,Low
+Homosassa Springs,FL,95.5,Medium
+Hot Springs,AR,87.3,Low
+Houma,LA,89.9,Low
+Houston,TX,95.8,Medium
+Huntington,WV,84.3,Low
+Huntsville,AL,91.3,Medium
+Huntsville,TX,91.2,Medium
+Hutchinson,KS,84.0,Low
+Idaho Falls,ID,91.7,Medium
+Indiana,PA,90.8,Medium
+Indianapolis,IN,90.2,Medium
+Iowa City,IA,93.5,Medium
+Ithaca,NY,101.7,High
+Jackson,MI,87.4,Low
+Jackson,MS,87.8,Low
+Jackson,TN,85.2,Low
+Jacksonville,FL,99.0,Medium
+Jacksonville,NC,91.7,Medium
+Jamestown,NY,91.3,Medium
+Janesville,WI,89.8,Low
+Jefferson City,MO,86.3,Low
+Johnson City,TN,88.1,Low
+Johnstown,PA,87.6,Low
+Jonesboro,AR,85.2,Low
+Joplin,MO,85.2,Low
+Kahului,HI,158.5,High
+Kalamazoo,MI,89.3,Low
+Kalispell,MT,112.7,High
+Kankakee,IL,91.0,Medium
+Kansas City,MO,91.6,Medium
+Kapaa,HI,164.9,High
+Keene,NH,102.1,High
+Kennewick,WA,99.7,Medium
+Key West,FL,140.0,High
+Killeen,TX,88.6,Low
+Kingsport,TN,86.0,Low
+Kingston,NY,106.1,High
+Klamath Falls,OR,97.1,Medium
+Knoxville,TN,91.6,Medium
+Kokomo,IN,84.9,Low
+La Crosse,WI,91.8,Medium
+Lafayette,LA,89.6,Low
+LaGrange,GA,86.0,Low
+Lake Charles,LA,89.4,Low
+Lake City,FL,93.6,Medium
+Lake Havasu City,AZ,98.4,Medium
+Lakeland,FL,96.4,Medium
+Lancaster,PA,99.5,Medium
+Lansing,MI,88.7,Low
+Laredo,TX,90.1,Medium
+Las Cruces,NM,88.8,Low
+Las Vegas,NV,100.7,High
+Laurel,MS,85.9,Low
+Lawrence,KS,91.6,Medium
+Lawton,OK,82.8,Low
+Lebanon,PA,95.4,Medium
+Lewiston,ID,92.5,Medium
+Lewiston,ME,99.7,Medium
+Lexington,KY,91.1,Medium
+Lima,OH,87.2,Low
+Lincoln,NE,94.7,Medium
+Little Rock,AR,88.0,Low
+London,KY,84.6,Low
+Longview,TX,88.5,Low
+Longview,WA,101.6,High
+Lubbock,TX,88.8,Low
+Lufkin,TX,88.2,Low
+Lumberton,NC,83.4,Low
+Lynchburg,VA,93.6,Medium
+Macon,GA,87.2,Low
+Madera,CA,108.9,High
+Madison,WI,99.5,Medium
+Manchester,NH,109.6,High
+Manhattan,KS,89.6,Low
+Manitowoc,WI,87.8,Low
+Mankato,MN,95.3,Medium
+Mansfield,OH,86.2,Low
+Marinette,WI,86.6,Low
+Marion,IN,81.8,Low
+Marion,OH,85.7,Low
+Marquette,MI,91.3,Medium
+Marshall,TX,89.9,Low
+Martinsville,VA,85.0,Low
+McAllen,TX,86.0,Low
+Meadville,PA,88.5,Low
+Medford,OR,107.5,High
+Memphis,TN,88.2,Low
+Merced,CA,108.2,High
+Meridian,MS,82.0,Low
+Michigan City,IN,87.8,Low
+Midland,MI,87.0,Low
+Midland,TX,97.8,Medium
+Milwaukee,WI,93.8,Medium
+Minot,ND,90.7,Medium
+Missoula,MT,103.4,High
+Mobile,AL,88.3,Low
+Modesto,CA,112.3,High
+Monroe,LA,86.5,Low
+Monroe,MI,90.5,Medium
+Montgomery,AL,88.5,Low
+Morehead City,NC,102.2,High
+Morgantown,WV,88.5,Low
+Morristown,TN,87.3,Low
+Moses Lake,WA,95.7,Medium
+Mount Airy,NC,89.0,Low
+Mount Pleasant,MI,86.8,Low
+Mount Vernon,WA,110.1,High
+Muncie,IN,83.7,Low
+Muskegon,MI,87.7,Low
+Muskogee,OK,81.3,Low
+Myrtle Beach,SC,94.7,Medium
+Nacogdoches,TX,89.6,Low
+Napa,CA,149.6,High
+Naples,FL,109.4,High
+Nashville,TN,100.1,High
+New Bern,NC,90.2,Medium
+New Castle,PA,88.1,Low
+New Haven,CT,107.7,High
+New Orleans,LA,92.4,Medium
+New Philadelphia,OH,88.9,Low
+New York,NY,128.0,High
+Niles,MI,89.7,Low
+North Wilkesboro,NC,90.5,Medium
+Oak Harbor,WA,125.2,High
+Ocala,FL,94.5,Medium
+Ocean City,NJ,109.5,High
+Odessa,TX,92.7,Medium
+Ogden,UT,99.8,Medium
+Ogdensburg,NY,88.3,Low
+Oklahoma City,OK,87.3,Low
+Olean,NY,89.0,Low
+Olympia,WA,110.9,High
+Omaha,NE,92.9,Medium
+Opelousas,LA,86.1,Low
+Orangeburg,SC,85.3,Low
+Orlando,FL,101.4,High
+Oshkosh,WI,89.0,Low
+Ottawa,IL,86.6,Low
+Owensboro,KY,86.6,Low
+Owosso,MI,84.8,Low
+Paducah,KY,85.7,Low
+Palatka,FL,93.2,Medium
+Panama City,FL,101.9,High
+Parkersburg,WV,84.7,Low
+Pensacola,FL,97.9,Medium
+Peoria,IL,86.7,Low
+Philadelphia,PA,103.4,High
+Phoenix,AZ,104.3,High
+Pine Bluff,AR,82.3,Low
+Pittsburgh,PA,93.1,Medium
+Pittsfield,MA,106.4,High
+Plattsburgh,NY,93.7,Medium
+Pocatello,ID,90.8,Medium
+Port Angeles,WA,109.1,High
+Port St. Lucie,FL,101.1,High
+Portland,ME,113.0,High
+Portland,OR,116.5,High
+Portsmouth,OH,84.7,Low
+Pottsville,PA,87.0,Low
+Prescott,AZ,104.6,High
+Providence,RI,111.5,High
+Provo,UT,100.9,High
+Pueblo,CO,92.2,Medium
+Punta Gorda,FL,100.3,High
+Quincy,IL,87.3,Low
+Racine,WI,90.9,Medium
+Raleigh,NC,99.7,Medium
+Rapid City,SD,94.2,Medium
+Reading,PA,96.0,Medium
+Redding,CA,108.7,High
+Reno,NV,107.4,High
+Richmond,IN,84.2,Low
+Richmond,VA,99.2,Medium
+Richmond,KY,90.8,Medium
+Riverside,CA,116.1,High
+Roanoke Rapids,NC,83.1,Low
+Roanoke,VA,94.1,Medium
+Rochester,MN,97.3,Medium
+Rochester,NY,96.6,Medium
+Rockford,IL,87.2,Low
+Rocky Mount,NC,88.3,Low
+Rome,GA,89.6,Low
+Roseburg,OR,100.8,High
+Roswell,NM,86.3,Low
+Russellville,AR,85.5,Low
+Sacramento,CA,120.3,High
+Saginaw,MI,84.0,Low
+Salem,OR,105.8,High
+Salinas,CA,138.3,High
+Salisbury,MD,103.2,High
+Salt Lake City,UT,105.9,High
+San Angelo,TX,90.7,Medium
+San Antonio,TX,92.7,Medium
+San Diego,CA,136.2,High
+San Francisco,CA,178.6,High
+San Jose,CA,173.5,High
+San Luis Obispo,CA,136.1,High
+Sandusky,OH,90.8,Medium
+Santa Cruz,CA,163.9,High
+Santa Fe,NM,105.1,High
+Santa Rosa,CA,141.7,High
+Savannah,GA,97.3,Medium
+Scranton,PA,91.3,Medium
+Searcy,AR,85.4,Low
+Seattle,WA,124.6,High
+Sebring,FL,93.1,Medium
+Seneca,SC,94.0,Medium
+Sevierville,TN,103.5,High
+Shawnee,OK,82.4,Low
+Sheboygan,WI,89.7,Low
+Shelby,NC,88.1,Low
+Shelton,WA,109.6,High
+Sherman,TX,91.3,Medium
+Show Low,AZ,101.9,High
+Shreveport,LA,85.8,Low
+Sierra Vista,AZ,93.2,Medium
+Sioux City,IA,87.1,Low
+Sioux Falls,SD,92.8,Medium
+Somerset,PA,89.3,Low
+South Bend,IN,87.2,Low
+Spartanburg,SC,91.0,Medium
+Spokane,WA,100.4,High
+Springfield,IL,87.5,Low
+Springfield,MA,106.5,High
+Springfield,MO,86.7,Low
+Springfield,OH,87.5,Low
+St. Cloud,MN,95.4,Medium
+St. George,UT,98.0,Medium
+St. Joseph,MO,85.5,Low
+St. Louis,MO,89.6,Low
+State College,PA,99.8,Medium
+Statesboro,GA,91.1,Medium
+Staunton,VA,94.5,Medium
+Stevens Point,WI,91.5,Medium
+Stillwater,OK,86.3,Low
+Stockton,CA,113.6,High
+Sumter,SC,88.1,Low
+Sunbury,PA,88.6,Low
+Syracuse,NY,95.1,Medium
+Talladega,AL,87.4,Low
+Tallahassee,FL,96.4,Medium
+Tampa,FL,101.4,High
+Terre Haute,IN,84.7,Low
+Texarkana,TX,86.3,Low
+The Villages,FL,100.7,High
+Toledo,OH,87.5,Low
+Topeka,KS,85.6,Low
+Torrington,CT,105.2,High
+Traverse City,MI,99.6,Medium
+Trenton,NJ,104.3,High
+Truckee,CA,132.8,High
+Tucson,AZ,97.7,Medium
+Tullahoma,TN,88.7,Low
+Tulsa,OK,86.7,Low
+Tupelo,MS,87.2,Low
+Tuscaloosa,AL,91.0,Medium
+Twin Falls,ID,91.2,Medium
+Tyler,TX,92.8,Medium
+Ukiah,CA,128.0,High
+Utica,NY,94.1,Medium
+Valdosta,GA,89.2,Low
+Vallejo,CA,125.2,High
+Vineland,NJ,97.8,Medium
+Virginia Beach,VA,99.0,Medium
+Visalia,CA,103.6,High
+Waco,TX,89.5,Low
+Walla Walla,WA,100.9,High
+Warner Robins,GA,90.5,Medium
+Warsaw,IN,92.3,Medium
+Washington,DC,120.1,High
+Waterloo,IA,87.6,Low
+Watertown,WI,97.1,Medium
+Watertown,NY,96.4,Medium
+Wausau,WI,88.9,Low
+Wenatchee,WA,106.6,High
+Whitewater,WI,97.7,Medium
+Wichita Falls,TX,85.7,Low
+Wichita,KS,86.8,Low
+Williamsport,PA,93.4,Medium
+Wilmington,NC,99.0,Medium
+Wilson,NC,86.3,Low
+Winchester,VA,97.2,Medium
+Winston-Salem,NC,91.2,Medium
+Wooster,OH,95.5,Medium
+Worcester,MA,113.2,High
+Yakima,WA,97.5,Medium
+York,PA,95.8,Medium
+Youngstown,OH,86.4,Low
+Yuba City,CA,108.7,High
+Yuma,AZ,94.5,Medium
+Zanesville,OH,87.6,Low
+Bloomington,IL,89.0,Low
+California,MD,104.8,High
+Crestview,FL,104.7,High
+Glenwood Springs,CO,127.8,High
+Greenfield Town,MA,106.2,High
+Hermiston,OR,97.9,Medium
+Holland,MI,96.2,Medium
+Jefferson,GA,97.4,Medium
+Lafayette,IN,88.7,Low
+Los Angeles,CA,140.6,High
+Sarasota,FL,104.4,High
+Salem,OH,86.6,Low
+Santa Maria,CA,143.0,High
+Honolulu,HI,158.0,High
+Wisconsin Rapids,WI,86.9,Low
+Stamford,CT,119.2,High
+Fort Myers,FL,101.5,High
+Dallas,TX,98.5,Medium
+Davenport,IA,87.2,Low
+Daytona Beach,FL,99.6,Medium
+Hagerstown,MD,99.7,Medium
+Logan,UT,95.2,Medium
+Louisville,KY,91.6,Medium
+Miami,FL,110.1,High
+Minneapolis,MN,105.4,High
+Ventura,CA,132.2,High
+Melbourne,FL,99.3,Medium
+Vero Beach,FL,98.9,Medium
+Weirton,WV,82.6,Low
+Wheeling,WV,84.1,Low
+New London,CT,105.9,High
+Daphne,AL,96.6,Medium
+Victoria,TX,89.5,Low
+Aberdeen,WA,97.6,Medium
